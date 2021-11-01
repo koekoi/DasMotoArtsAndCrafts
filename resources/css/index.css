@@ -6,3 +6,7 @@ color:khaki;
 text-align: center;
 background-image: url('../img/pattern.jpeg');
 }
+
+.product image {
+ height: 150px; 
+}

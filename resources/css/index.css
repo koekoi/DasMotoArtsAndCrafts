@@ -7,6 +7,6 @@ text-align: center;
 background-image: url('../img/pattern.jpeg');
 }
 
-.product {
+#product {
     height: 50px;
 }

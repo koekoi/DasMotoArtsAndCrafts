@@ -1,12 +1,38 @@
-h1 {
-font-family: Helvetica;
-font-size: 100px;
-font-weight: bold;
-color:khaki;
-text-align: center;
-background-image: url('../img/pattern.jpeg');
+body {
+    font-family: helvetica;
 }
 
-.product-pix {
-height: 250px;
-} 
+#Brushes {
+    background-color: mediumspringgreen;
+}
+
+#Frames {
+    background-color: lightcoral;
+}
+
+#Paint {
+    background-color: skyblue;
+}
+
+.price  {
+    color: blue;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 100px;
+    font-weight: bold;
+    color:khaki;
+    text-align: center;
+    background-image: url('../img/pattern.jpeg');
+    }
+
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+    
+    .product-pix {
+    height: 250px;
+    }
